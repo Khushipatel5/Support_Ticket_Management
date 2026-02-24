@@ -20,8 +20,6 @@ NestJS
 
 TypeScript
 
-Node.js
-
 TypeORM
 
 MySQL
